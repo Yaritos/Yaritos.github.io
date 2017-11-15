@@ -60,11 +60,11 @@ header a.nav-item.nav-link:hover {
 
 .features h5 {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .features img {
-  margin: 30px;
+  margin: 20px;
   height: 55px;
   width: 55px;
 }
