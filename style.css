@@ -52,8 +52,8 @@ header a.nav-item.nav-link:hover {
 }
 
 .introduce .introduce-button.btn.btn-danger:hover {
- background-color: #BD2130;
- border-color: #BD2130;
+  background-color: #BD2130;
+  border-color: #BD2130;
 }
 
 .features {
@@ -103,8 +103,8 @@ header a.nav-item.nav-link:hover {
 }
 
 .featured-works .nav-pills .nav-link:hover {
- background-color: #BD2130;
- border-color: #BD2130;
+  background-color: #BD2130;
+  border-color: #BD2130;
 }
 
 .featured-works .nav-pills .nav-link.active {
