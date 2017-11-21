@@ -2,14 +2,14 @@
 
 #Технологии и инструменты которые я использовал:
 
-https://getbootstrap.com/
-
-https://fonts.google.com/
+http://www.entypo.com/
 
 https://github.com/svg/svgo
 
-http://www.entypo.com/
-
-http://fontello.com/
+https://assets.adobe.com/
 
 https://realfavicongenerator.net/
+
+https://getbootstrap.com/
+
+https://fonts.google.com/
