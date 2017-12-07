@@ -1,4 +1,4 @@
-# yaritos.github.io
+#my first website
 
 #Технологии и инструменты которые я использовал:
 
