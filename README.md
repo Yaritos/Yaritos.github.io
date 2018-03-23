@@ -1,6 +1,6 @@
 # my first website
 
-# Технологии и инструменты которые я использовал:
+# The technologies and tools:
 
 http://www.entypo.com/
 
