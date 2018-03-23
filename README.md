@@ -1,6 +1,6 @@
 # my first website
 
-# The technologies and tools:
+# Technologies and tools:
 
 http://www.entypo.com/
 
