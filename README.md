@@ -1,5 +1,5 @@
 # my first bootstrap website
-https://yslpn.github.io/my-first-website/
+https://yslpn.github.io/bootstrap-website/
 
 # Technologies and tools:
 
