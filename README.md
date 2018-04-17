@@ -1,4 +1,4 @@
-# my first website
+# my first bootstrap website
 https://yslpn.github.io/my-first-website/
 
 # Technologies and tools:
