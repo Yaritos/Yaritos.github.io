@@ -125,10 +125,27 @@ header a.nav-item.nav-link:hover {
   font-weight: bold;
 }
 
-.contact-info .address-phone img {
+.contact-info .address-phone {
+  position: relative;
+  margin-left: 25px;
+}
+
+.contact-info .address::before {
+  content: "";
+  background: url("img/location.svg") no-repeat;
+  position: absolute;
   height: 20px;
   width: 20px;
-  margin: 5px;
+  left: -20px;
+}
+
+.contact-info .phone::before {
+  content: "";
+  background: url("img/phone.svg") no-repeat;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  left: -20px;
 }
 
 .contact-info .socials img {
