@@ -3,6 +3,8 @@ Site - https://yslpn.github.io/bootstrap-website/
 
 ### Technologies and tools:
 
+* https://getbootstrap.com/
+
 * http://www.entypo.com/
 
 * https://github.com/svg/svgo
@@ -12,7 +14,5 @@ Site - https://yslpn.github.io/bootstrap-website/
 * https://assets.adobe.com/
 
 * https://realfavicongenerator.net/
-
-* https://getbootstrap.com/
 
 * https://fonts.google.com/
