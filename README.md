@@ -7,6 +7,8 @@ Site - https://yslpn.github.io/bootstrap-website/
 
 * https://github.com/svg/svgo
 
+* https://github.com/imgo/imgo
+
 * https://assets.adobe.com/
 
 * https://realfavicongenerator.net/
