@@ -1,6 +1,6 @@
 # My first bootstrap website
 
-SGitHub Pages: https://yslpn.github.io/bootstrap-website/
+GitHub Pages: https://yslpn.github.io/bootstrap-website/
 
 ### Technologies and tools:
 
